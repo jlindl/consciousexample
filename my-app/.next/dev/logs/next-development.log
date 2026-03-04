@@ -1,0 +1,3 @@
+[00:08:52.799] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\User\OneDrive\Desktop\Concsiousexample\my-app\app'
+[00:08:52.832] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Users\User\OneDrive\Desktop\Concsiousexample\my-app\app'
+[00:08:52.851] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Users\User\OneDrive\Desktop\Concsiousexample\my-app\app'
